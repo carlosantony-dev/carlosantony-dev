@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosantony-dev
 - 👀 I’m interested in innovation and technology
-- 🌱 I’m currently learning <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/> Java  and <img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/> Javascript
+- 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on development and management 🚀
 - 📫 How to reach me @carlos_antony7   || Carlos Blecha -> LinkedIn
 
